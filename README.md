@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vanshpunia007" target="blank"><img src="https://img.shields.io/twitter/follow/vanshpunia007?logo=twitter&style=for-the-badge" alt="vanshpunia007" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Android Development**
+- 🌱 I’m currently learning **DSA and Android Development**
 
 - ⚡ Fun fact **I think I am funny and talks a lot😂😅**
 
